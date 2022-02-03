@@ -7,6 +7,7 @@ tc1
     Sleep    5
     input text  //input[@type='text']   hanumantharaju TV
     Press Keys    //body    ENTER
-    reload page
+    sleep   3s
+    RELOAD PAGE
     Close Browser
     # new for jenkins t3
