@@ -9,5 +9,9 @@ tc1
     Press Keys    //body    ENTER
     sleep   3s
     RELOAD PAGE
+    input text  //input[@type='text']   hanumantharaju TV
+    Press Keys    //body    ENTER
+    sleep   3s
+    RELOAD PAGE
     Close Browser
     # new for jenkins t3
