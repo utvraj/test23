@@ -12,6 +12,8 @@ tc1
     input text  //input[@type='text']   hanuman
     Press Keys    //body    ENTER
     sleep   3s
-
+    input text  //input[@type='text']   man
+    Press Keys    //body    ENTER
+    sleep   3s
     Close Browser
     # new for jenkins t3
