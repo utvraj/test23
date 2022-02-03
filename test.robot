@@ -9,7 +9,5 @@ tc1
     Press Keys    //body    ENTER
     sleep   3s
     RELOAD PAGE
-    input text  //input[@type='text']   hanuman chalisa
-    sleep   5s
     Close Browser
     # new for jenkins t3
